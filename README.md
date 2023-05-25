@@ -7,7 +7,7 @@ Here, We are targeting complete automation of the garbage collection system whic
 
 2. Annonate dataset using labelImg in YOLO format.
 
-   To install labelImg use command "pip install labelImg" in your command prompt and after installation type "labelImg" in command prompt and annonate your data.
+   To install labelImg use command "pip install labelImg" in your command prompt and after installation type "labelImg" in command prompt and annonate your data. Link for the dataset : "https://www.kaggle.com/datasets/vrajp2002/garbeye" (Delete labels.cache files)
   
    ![image](https://github.com/DynamVraj/GarbEye/assets/99869914/335d5380-d055-41a3-a3b1-c27f171472b4)
 
