@@ -6,6 +6,7 @@ Here, We are targeting complete automation of the garbage collection system whic
 1. Create Virtual Environment.(Optional)
 
    python -m venv yolov7_custom
+   
    source yolov7_custom/bin/activate
 
 2. Annonate dataset using labelImg in YOLO format.
