@@ -1,5 +1,6 @@
 ## GarbEye - Garbage Automation Solution
-![Garbeye](https://github.com/DynamVraj/GarbEye/assets/99869914/5aeae7b2-da07-44b9-afc6-52fea02a8097)
+![Garbeye](https://github.com/DynamVraj/GarbEye/assets/99869914/9a65d8bc-f3ae-4414-bc57-0676b6c05b3f)
+
 
 Here, We are targeting complete automation of the garbage collection system which includes identification of garbage. This is the critical task where knowledge of image processing and machine learning will be applied. 
 ### Steps:
@@ -11,13 +12,13 @@ Here, We are targeting complete automation of the garbage collection system whic
 
 2. Annonate dataset using labelImg in YOLO format.
 
-   To install labelImg use command "pip install labelImg" in your command prompt and after installation type "labelImg" in command prompt and annonate your data. Link for the dataset : "https://www.kaggle.com/datasets/vrajp2002/garbeye" (Delete labels.cache files)
+   To install labelImg use command "pip install labelImg" in your command prompt and after installation type "labelImg" in command prompt and annonate your data.
   
-   ![image](https://github.com/DynamVraj/GarbEye/assets/99869914/335d5380-d055-41a3-a3b1-c27f171472b4)
+  ![image](https://github.com/DynamVraj/GarbEye/assets/99869914/58fd83a0-3148-4550-8579-26a9c2c78e66)
 
 3. Split the dataset in train and val folder and save images and labels in data folder as shown below.
 
-   ![image](https://github.com/DynamVraj/GarbEye/assets/99869914/4cd806e8-242f-4228-acb3-fdcdbe07470c)
+   ![image](https://github.com/DynamVraj/GarbEye/assets/99869914/2f6ad356-289f-4cf6-8a66-b39070d29298)
 
 4. Install pre-reuirements for YOLOv7 by running "pip install -r requirements.txt" and "pip install -r requirements_gpu.txt".
 
@@ -37,5 +38,4 @@ Here, We are targeting complete automation of the garbage collection system whic
    
 Working Video:
 
-https://github.com/DynamVraj/GarbEye/assets/99869914/3fcd5bad-d405-4863-a75a-cf1e3377d382
-
+https://github.com/DynamVraj/GarbEye/assets/99869914/9f1cf7b8-e3e8-4f77-ba42-963625da549f
